@@ -26,4 +26,3 @@ def get_data():
 df = get_data()
 if df is not None:
     print(df.head())
-
