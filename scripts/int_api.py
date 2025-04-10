@@ -7,7 +7,7 @@ API_URL = "https://data.enedis.fr/api/records/1.0/search/"
 # Params de la requête
 params = {
     "dataset": "bilan-electrique-demi-heure",
-    "rows": 100,
+    "rows": 400,
     "sort": "horodate"
 }
 
