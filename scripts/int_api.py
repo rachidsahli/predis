@@ -24,5 +24,3 @@ def get_data():
 
 # Head
 df = get_data()
-if df is not None:
-    print(df.head())
